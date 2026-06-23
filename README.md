@@ -1,4 +1,4 @@
-# supermart-SQL-capstone
+
 # SuperMart Analytics  SQL Capstone
 
 A complete SQL analytics project on **SuperMart**, a Nigerian retail chain. It works through a realistic retail database from basic queries to multi-stage analytical questions,  answering ten business problems with clean, commented PostgreSQL.
@@ -10,7 +10,7 @@ A complete SQL analytics project on **SuperMart**, a Nigerian retail chain. It w
 
 ## Overview
 
-The project is organised as a single, fully commented script (`SUPERMART_CAPSTONE_PROJECT-_Idowu_Blessing_Apara.sql`) divided into ten sections (A–J) that progress from SQL fundamentals to advanced analytical queries. Each query is preceded by a comment stating the business question it answers.
+The project is organised as a single, fully commented script (`SUPERMART ANALYTICS CAPSTONE.sql`) divided into ten sections (A–J) that progress from SQL fundamentals to advanced analytical queries. Each query is preceded by a comment stating the business question it answers.
 
 The core revenue measure used throughout is:
 
@@ -61,7 +61,7 @@ The queries run against a seven-table relational retail model:
 
 ```
 .
-├── SUPERMART_CAPSTONE_PROJECT-_Idowu_Blessing_Apara.sql   # all 10 sections of solutions
+├── SUPERMART ANALYTICS CAPSTONE.sql   # all 10 sections of solutions
 └── README.md
 ```
 
