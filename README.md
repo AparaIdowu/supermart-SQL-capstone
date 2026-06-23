@@ -1,7 +1,7 @@
 # supermart-SQL-capstone
-# SuperMart Analytics — SQL Capstone
+# SuperMart Analytics  SQL Capstone
 
-A complete SQL analytics project on **SuperMart**, a Nigerian retail chain. It works through a realistic retail database from basic queries to multi-stage analytical questions — answering ten business problems with clean, commented PostgreSQL.
+A complete SQL analytics project on **SuperMart**, a Nigerian retail chain. It works through a realistic retail database from basic queries to multi-stage analytical questions,  answering ten business problems with clean, commented PostgreSQL.
 
 **Author:** Idowu Blessing Apara
 **Engine:** PostgreSQL · **Currency:** Nigerian Naira (₦)
