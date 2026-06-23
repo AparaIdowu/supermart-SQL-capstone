@@ -76,7 +76,7 @@ The queries run against a seven-table relational retail model:
    ```
 3. Run the script, or copy individual queries into your SQL client:
    ```sql
-   \i SUPERMART_CAPSTONE_PROJECT-_Idowu_Blessing_Apara.sql
+   \i SUPERMART ANALYTICS CAPSTONE-_Idowu_Blessing_Apara.sql
    ```
 
 > The script contains the **analytical queries only**. It expects the SuperMart tables to already exist and be populated.
